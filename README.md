@@ -1,4 +1,5 @@
-
+hi there >_<
+Hi, I'm Bao An, a 20-year-old backend developer. I specialize in crafting robust software solutions and thrive on solving complex problems. I'm passionate about technology and continuously strive to stay updated with the latest trends. Let's connect and create something amazing together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/an-pham-782420305/) 
